@@ -1,0 +1,10 @@
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\bin\Debug\netcoreapp3.1\ClientApi.exe
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.csprojAssemblyReference.cache
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.AssemblyInfoInputs.cache
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.AssemblyInfo.cs
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.RazorTargetAssemblyInfo.cache
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\obj\Debug\netcoreapp3.1\staticwebassets\ClientApi.StaticWebAssets.Manifest.cache
+C:\Users\fawad_ahmed1\Source\Repos\IdentityServer\ClientApi\obj\Debug\netcoreapp3.1\staticwebassets\ClientApi.StaticWebAssets.xml
