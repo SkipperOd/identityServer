@@ -1,0 +1,12 @@
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.deps.json
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.dll
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.pdb
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.dll
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.pdb
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.csprojAssemblyReference.cache
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.AssemblyInfoInputs.cache
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.AssemblyInfo.cs
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.csproj.CopyComplete
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.dll
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.pdb
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.DbContexts\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.DbContexts.csproj.CoreCompileInputs.cache

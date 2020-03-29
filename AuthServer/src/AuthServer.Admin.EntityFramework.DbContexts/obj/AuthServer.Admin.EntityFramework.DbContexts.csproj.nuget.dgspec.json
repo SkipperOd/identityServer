@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.DbContexts\\AuthServer.Admin.EntityFramework.DbContexts.csproj": {}
+  },
+  "projects": {
+    "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.DbContexts\\AuthServer.Admin.EntityFramework.DbContexts.csproj": {
+      "version": "1.0.0-beta6",
+      "restore": {
+        "projectUniqueName": "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.DbContexts\\AuthServer.Admin.EntityFramework.DbContexts.csproj",
+        "projectName": "AuthServer.Admin.EntityFramework.DbContexts",
+        "projectPath": "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.DbContexts\\AuthServer.Admin.EntityFramework.DbContexts.csproj",
+        "packagesPath": "C:\\Users\\NB-17-W121TX_03\\.nuget\\packages\\",
+        "outputPath": "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.DbContexts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NB-17-W121TX_03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.Identity\\AuthServer.Admin.EntityFramework.Identity.csproj": {
+                "projectPath": "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.Identity\\AuthServer.Admin.EntityFramework.Identity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Skoruba.IdentityServer4.Admin.EntityFramework": {
+              "target": "Package",
+              "version": "[1.0.0-beta6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.Identity\\AuthServer.Admin.EntityFramework.Identity.csproj": {
+      "version": "1.0.0-beta6",
+      "restore": {
+        "projectUniqueName": "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.Identity\\AuthServer.Admin.EntityFramework.Identity.csproj",
+        "projectName": "AuthServer.Admin.EntityFramework.Identity",
+        "projectPath": "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.Identity\\AuthServer.Admin.EntityFramework.Identity.csproj",
+        "packagesPath": "C:\\Users\\NB-17-W121TX_03\\.nuget\\packages\\",
+        "outputPath": "D:\\Test\\AuthServer\\src\\AuthServer.Admin.EntityFramework.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NB-17-W121TX_03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.deps.json
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.dll
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\bin\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.pdb
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.csprojAssemblyReference.cache
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.csproj.CoreCompileInputs.cache
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.AssemblyInfoInputs.cache
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.AssemblyInfo.cs
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.dll
+D:\Test\AuthServer\src\AuthServer.Admin.EntityFramework.Identity\obj\Debug\netstandard2.0\AuthServer.Admin.EntityFramework.Identity.pdb
